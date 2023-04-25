@@ -1,0 +1,28 @@
+﻿<Window x:Class="Building_Materials.View.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Building_Materials.View"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="450" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <TextBlock Height="30" Width="200" FontSize="20" Text="Авторизация" VerticalAlignment="Center" TextAlignment="Center"></TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <TextBlock Height="20" Margin="10" Text="Введите логин:" FontSize="15"></TextBlock>
+            <TextBox x:Name="TbLogin" Text="{Binding Login}" TextChanged="TbLogin_TextChanged" Height="30" FontSize="20"></TextBox>
+            <TextBlock Height="20" Margin="10" Text="Введите пароль:" FontSize="15"></TextBlock>
+            <PasswordBox x:Name="PsBox" PasswordChanged="PsBox_PasswordChanged" Height="30" FontSize="20"></PasswordBox>
+        </StackPanel>
+        <StackPanel Grid.Row="2">
+            <Button x:Name="BtnAuth"  Command="{Binding AuthCommand}" Click="BtnAuth_Click" Height="30" Width="200" Content="Авторизаваться" Background="#AB89AC"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

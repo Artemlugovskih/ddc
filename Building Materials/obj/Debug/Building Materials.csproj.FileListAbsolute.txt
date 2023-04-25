@@ -1,0 +1,27 @@
+C:\Users\artem\source\repos\Building Materials\Building Materials\bin\Debug\Building Materials.exe.config
+C:\Users\artem\source\repos\Building Materials\Building Materials\bin\Debug\Building Materials.exe
+C:\Users\artem\source\repos\Building Materials\Building Materials\bin\Debug\Building Materials.pdb
+C:\Users\artem\source\repos\Building Materials\Building Materials\bin\Debug\EntityFramework.dll
+C:\Users\artem\source\repos\Building Materials\Building Materials\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\artem\source\repos\Building Materials\Building Materials\bin\Debug\EntityFramework.xml
+C:\Users\artem\source\repos\Building Materials\Building Materials\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\artem\source\repos\Building Materials\Building Materials\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\View\AuthWindow.g.cs
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\App.g.cs
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials_Content.g.cs
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials_MarkupCompile.cache
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials_MarkupCompile.lref
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\View\AuthWindow.baml
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials.g.resources
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building_Materials.Properties.Resources.resources
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials.csproj.CopyComplete
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials.exe
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\Building Materials.pdb
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\View\AppWindow.g.cs
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\View\AppWindow.baml
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\View\AddOrEditWindow.g.cs
+C:\Users\artem\source\repos\Building Materials\Building Materials\obj\Debug\View\AddOrEditWindow.baml
